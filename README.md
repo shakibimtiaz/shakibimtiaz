@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C5616AQHJ2GHzlLT5ow/profile-displaybackgroundimage-shrink_350_1400/0/1662445887003?e=1723075200&v=beta&t=B2oeOduualaHnhOIKHxEe42SrNYTpymOVdiQEwiF_AI" alt="Banner" style="width: 100%; height: 30%;">
+  <img src="https://media.licdn.com/dms/image/C5616AQHJ2GHzlLT5ow/profile-displaybackgroundimage-shrink_350_1400/0/1662445887003?e=1723075200&v=beta&t=B2oeOduualaHnhOIKHxEe42SrNYTpymOVdiQEwiF_AI" alt="Banner" style="width: 100%; height: 30%;">
 <h1 align="center">Hi 👋, I'm Shakib Imtiaz</h1>
 <h6 align="center">Student of Department of CSE || Mobile Application Developer (Flutter)</h6>
 
