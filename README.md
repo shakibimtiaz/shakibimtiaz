@@ -1,4 +1,4 @@
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftimelinecovers.pro%2Fcovers%2Fabstract%2Fyou-are-a-dreamer-hd-facebook-cover-photo&psig=AOvVaw2Gm3D2GVzsjoillljn2iHB&ust=1717577026820000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiZo5fHwYYDFQAAAAAdAAAAABAE" alt="Banner" style="width: 100%; height: 30%;">
+<img src="https://github.com/shakib08/shakib08/blob/main/Purple%20Minimalist%20Develop%20Your%20Mobile%20App%20With%20Us%20Medium%20Banner.png" alt="Banner" style="width: 100%; height: 30%;">
 <h1 align="center">Hi 👋, I'm Shakib Imtiaz</h1>
 <h6 align="center">Student of Department of CSE || Mobile Application Developer (Flutter)</h6>
 
