@@ -1,6 +1,6 @@
 <img src="https://github.com/shakib08/shakib08/blob/main/Purple%20Minimalist%20Develop%20Your%20Mobile%20App%20With%20Us%20Medium%20Banner.png" alt="Banner" style="width: 100%; height: 20%;">
 <h1 align="center">Hi 👋, I'm Shakib Imtiaz</h1>
-<h4 align="center">Student of Department of CSE || Mobile Application Developer (Flutter)</h6>
+<h4 align="center"> Mobile Application Developer (Flutter), Bdcalling IT Ltd.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakib08&label=Profile%20views&color=0e75b6&style=flat" alt="shakib08" /> </p>
 
